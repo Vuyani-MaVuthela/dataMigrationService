@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brad\\source\\repos\\dataMigrationService\\dataMigrationService.csproj",
+      "projectUniqueName": "C:\\Users\\brad\\Documents\\C-sharpProjects\\Web\\dataMigrationService\\dataMigrationService.csproj",
       "projectName": "dataMigrationService",
-      "projectPath": "C:\\Users\\brad\\source\\repos\\dataMigrationService\\dataMigrationService.csproj",
+      "projectPath": "C:\\Users\\brad\\Documents\\C-sharpProjects\\Web\\dataMigrationService\\dataMigrationService.csproj",
       "packagesPath": "C:\\Users\\brad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brad\\source\\repos\\dataMigrationService\\obj\\",
+      "outputPath": "C:\\Users\\brad\\Documents\\C-sharpProjects\\Web\\dataMigrationService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\brad\\AppData\\Roaming\\NuGet\\NuGet.Config",

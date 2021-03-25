@@ -11,15 +11,17 @@ namespace dataMigrationService.Controllers
     [ApiController]
     public class DataController : ControllerBase
     {
-        public string GetAll()
+        public string Get()
         {
-            return "Add connection string to body";
+            return "post connection string in body";
         }
 
-        [HttpGet("{connString}")]
-        public string Get([FromBody] string connString)
+
+        // POST api/values
+        [HttpPost("{connString}")]
+        public void Post([FromBody] string connString)
         {
-            return connString;
+
         }
     }
 }
